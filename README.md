@@ -1,7 +1,3 @@
-Here's the **step-by-step installation log** for deploying Zabbix Agent on Windows 10 in English, following the same structured format:
-
----
-
 # **🚀 Zabbix Agent Deployment on Windows 10 - Installation Log** 
 
 **📅 Date:** July 7, 2025  
