@@ -2,9 +2,14 @@ Here's the **step-by-step installation log** for deploying Zabbix Agent on Windo
 
 ---
 
-# **🚀 Zabbix Agent Deployment on Windows 10 - Installation Log**  
+# **🚀 Zabbix Agent Deployment on Windows 10 - Installation Log** 
+
 **📅 Date:** July 7, 2025  
-**🖥️ Target System:** Windows 10 Pro (Build 21H2)  
+
+**👨‍💻 Admin:** Sasha Zimin
+
+**🖥️ Target System:** Windows 10 Pro (Build 21H2) 
+
 **🔗 Zabbix Server:** WSL2/Ubuntu (172.28.112.1)  
 
 ---
